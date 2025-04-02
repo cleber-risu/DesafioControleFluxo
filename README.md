@@ -32,7 +32,7 @@ Imprimindo o número 17
 Imprimindo o número 18
 ~~~
 
-2° Resultado esperado (lançado uma exceção):
+2° Resultado esperado (lançando uma exceção):
 ~~~cmd
 Digite o primeiro número:
 10
