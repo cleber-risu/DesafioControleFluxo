@@ -1,18 +1,44 @@
-## Getting Started
+# Controle de Fluxo - Desafio
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Resolução do Desafio do módulo de Controle de Fluxo do **Bootcamp Bradesco - Java Cloud Native**.
 
-## Folder Structure
+Neste exercicio de prática foi desenvolvido um simples app de terminal onde se deve inserir dois números, onde o segundo número deve ser maior que o primeiro, então no terminal mostrar a contagem da diferença entre esses números, caso o primeiro número seja maior que o segundo devemos lançar uma exceção avisando de tal erro.
 
-The workspace contains two folders by default, where:
+1° Resultado esperado:
+~~~cmd
+Digite o primeiro número:
+12
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Digite o segundo número:
+30
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Imprimindo o número 1
+Imprimindo o número 2
+Imprimindo o número 3
+Imprimindo o número 4
+Imprimindo o número 5
+Imprimindo o número 6
+Imprimindo o número 7
+Imprimindo o número 8
+Imprimindo o número 9
+Imprimindo o número 10
+Imprimindo o número 11
+Imprimindo o número 12
+Imprimindo o número 13
+Imprimindo o número 14
+Imprimindo o número 15
+Imprimindo o número 16
+Imprimindo o número 17
+Imprimindo o número 18
+~~~
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+2° Resultado esperado (lançado uma exceção):
+~~~cmd
+Digite o primeiro número:
+10
 
-## Dependency Management
+Digite o segundo número:
+5
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+O segundo parâmetro deve ser maior que o primeiro!
+~~~
